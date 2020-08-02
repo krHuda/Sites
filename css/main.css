@@ -114,3 +114,18 @@ nav{
   width: 100%;
 }
 
+.content p{
+  float: left;
+  width: 706px;
+  height: 433px;
+  text-align: justify;
+  padding-left: 33px;
+}
+
+.content img{
+  border-radius: 10px;
+  float: right;
+  width: 729px;
+  height: 485px;
+  padding-right: 33px;
+}
